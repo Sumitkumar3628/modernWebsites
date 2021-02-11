@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/modernWebsites/static/css/main.81fbf0a2.chunk.css",
+    "main.js": "/modernWebsites/static/js/main.698ab8ca.chunk.js",
+    "main.js.map": "/modernWebsites/static/js/main.698ab8ca.chunk.js.map",
+    "runtime-main.js": "/modernWebsites/static/js/runtime-main.4c4a228d.js",
+    "runtime-main.js.map": "/modernWebsites/static/js/runtime-main.4c4a228d.js.map",
+    "static/js/2.e858b2ac.chunk.js": "/modernWebsites/static/js/2.e858b2ac.chunk.js",
+    "static/js/2.e858b2ac.chunk.js.map": "/modernWebsites/static/js/2.e858b2ac.chunk.js.map",
+    "static/js/3.d636340d.chunk.js": "/modernWebsites/static/js/3.d636340d.chunk.js",
+    "static/js/3.d636340d.chunk.js.map": "/modernWebsites/static/js/3.d636340d.chunk.js.map",
+    "index.html": "/modernWebsites/index.html",
+    "static/css/main.81fbf0a2.chunk.css.map": "/modernWebsites/static/css/main.81fbf0a2.chunk.css.map",
+    "static/js/2.e858b2ac.chunk.js.LICENSE.txt": "/modernWebsites/static/js/2.e858b2ac.chunk.js.LICENSE.txt",
+    "static/media/undraw_content_team_3epn.92e64eb1.svg": "/modernWebsites/static/media/undraw_content_team_3epn.92e64eb1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c4a228d.js",
+    "static/js/2.e858b2ac.chunk.js",
+    "static/css/main.81fbf0a2.chunk.css",
+    "static/js/main.698ab8ca.chunk.js"
+  ]
+}
